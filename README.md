@@ -1,2 +1,2 @@
-# shirabayashi_data606
-Project and Information for Data606
+# UMBC Data606: Project Notes
+## UMBC | Scott Hirabayashi
